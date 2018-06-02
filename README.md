@@ -1,1 +1,1 @@
-# kafka-strom-cassandra
+# kafka-Core API
